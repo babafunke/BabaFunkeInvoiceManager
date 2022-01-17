@@ -7,4 +7,4 @@ Clone this git repo to access both projects. The most notable change to perform 
 * Create a local.settings.json file and include the key/value pairs for the configs in the Startup.cs file
 
 # Background
-For more on the project's background and walkthrough, read the post [Creating an Automated Invoice Manager for Mama Funke](https://daddycreates.com/creating-an-automated-invoice-manager-for-mama-funke/)
+For more on the project's background and walkthrough, read the post [Creating more Family time with an Automated Invoice Manager](https://daddycreates.com/creating-an-automated-invoice-manager-for-mama-funke/)
