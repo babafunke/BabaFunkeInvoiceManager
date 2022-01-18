@@ -32,7 +32,7 @@ namespace BabaFunkeInvoiceManager.Services
 
             var result = await _fluentEmail
                 .To(recipients)
-                .Subject($"{blobDetail.CurrentMonth} Invoice for Genii Games App")
+                .Subject($"{blobDetail.CurrentMonth} Invoice for Mama Funke's Service")
                 .Body($"Hello Customer,\n\nFind attached {blobDetail.CurrentMonth}'s invoice.\n\nBest regards\nMama Funke")
                 .BCC("mamafunke@daddycreates.com")
                 .Attach(attachment)
